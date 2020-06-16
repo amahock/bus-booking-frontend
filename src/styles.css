@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bg-img {
+  background-image: url(./Images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.mr-8 {
+  margin-right: 8px;
+}
+
+.errorMsg {
+  color: red;
+}
